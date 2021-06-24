@@ -14,8 +14,8 @@ var launcherObject;
 var launchForce=100;
 
 function preload(){
-	boy=loadImage("images/boy.png");
- tree =loadImage("images/tree.png");
+	boy=loadImage("boy.png");
+        tree =loadImage("tree.png");
   }
 
 function setup() {
